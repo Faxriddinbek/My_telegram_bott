@@ -120,7 +120,7 @@ def cancel(update, context):
 
 
 def main():
-    updater = Updater("7933839705:AAFHYePhouFXF4Or4J_FM-KFGHBTzZ_dB3g")
+    updater = Updater("Bot token qo'yiladi")
     dispatcher = updater.dispatcher
 
     conv_handler = ConversationHandler(
